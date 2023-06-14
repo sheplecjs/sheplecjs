@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm an analytics and data engineer.
+I'm a Data Quality Analyst.
 
 - I’m currently working on an attention mechanism based on a recursive Bayesian estimator implemented in PyTorch as part of an MSc capstone project
 
