@@ -1,9 +1,15 @@
 ### Hi 👋
 
-I'm a Data Quality Analyst.
+I'm a Data Reliability Engineer.
 
-- I’m currently working on a system for automated integration testing of source systems to validate and reconcile front end interaction with data assets that land in a data lake
+*who does things like*
 
-- In past work I've enjoyed building out quality control systems with things like machine learning-driven anomaly detection, modular templated communications, and video/text classification
+- Implement anomaly detection on large-scale streaming datasets
+
+- Design LLM testing solutions
+
+- Integrate metadata and sematic layers
+
+- Develop product analyticts solutions
 
 - 📫 How to reach me: there's an email available on my profile site linked in profile details
