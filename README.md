@@ -1,15 +1,11 @@
-### Hi 👋
+## Hi, I'm Colin Shepley
 
-I'm a Data Reliability Engineer.
+Data Reliability Engineer based in York, UK. I work on the infrastructure that keeps data
+trustworthy at scale — anomaly detection on large streaming datasets, LLM evaluation and
+testing pipelines, semantic and metadata layer integrations, and product analytics systems.
 
-*who does things like*
+Most of my work lives in Python and SQL, with occasional excursions into Rust when
+performance matters. I hold an MSc in Data Science, where I researched probabilistic
+attention mechanisms for financial time-series forecasting.
 
-- Implement anomaly detection on large-scale streaming datasets
-
-- Design LLM testing solutions
-
-- Integrate metadata and semantic layers
-
-- Develop product analytics solutions
-
-- 📫 How to reach me: there's an email available on my profile site linked in profile details
+📍 York, UK · 🌐 [colinshepley.com](https://colinshepley.com) · 📫 [me@colinshepley.com](mailto:me@colinshepley.com)
