@@ -8,8 +8,8 @@ I'm a Data Reliability Engineer.
 
 - Design LLM testing solutions
 
-- Integrate metadata and sematic layers
+- Integrate metadata and semantic layers
 
-- Develop product analyticts solutions
+- Develop product analytics solutions
 
 - 📫 How to reach me: there's an email available on my profile site linked in profile details
