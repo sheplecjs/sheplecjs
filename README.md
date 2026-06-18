@@ -8,4 +8,4 @@ Most of my work lives in Python and SQL, with occasional excursions into Rust wh
 performance matters. I hold an MSc in Data Science, where I researched probabilistic
 attention mechanisms for financial time-series forecasting.
 
-📍 York, UK · 🌐 [colinshepley.com](https://colinshepley.com) · 📫 [me@colinshepley.com](mailto:me@colinshepley.com)
+📌 York, UK · 🌐 [colinshepley.com](https://colinshepley.com) · 📫 [me@colinshepley.com](mailto:me@colinshepley.com)
